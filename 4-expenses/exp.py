@@ -1,0 +1,11 @@
+list = [1, 2, 3, 4, 5, 6, 7]
+summ_list = sum(list)
+print(summ_list)
+medium_list = sum(list) / len(list)
+print(medium_list)
+min_list = min(list)
+print(min_list)
+max_list = max(list)
+print(max_list)
+cortej = (summ_list,min_list, max_list)
+print(cortej)
